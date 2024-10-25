@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "I'm good"
+echo "I'm good, but now unsigned"

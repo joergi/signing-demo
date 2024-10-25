@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "I'm JSH now."
+echo "I'm JSH now!"

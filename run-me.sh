@@ -5,4 +5,4 @@ set -o pipefail
 set -o nounset
 
 
-echo "I'm JSH now!"
+echo "now it's not commitable, thx to signed commits"
